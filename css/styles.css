@@ -33,11 +33,6 @@ span {
   border: 2px black solid;
 }
 
-.chicken,
-.beef,
-.sushi {
-}
-
 span {
   font-size: 1.25em;
   float: right;
@@ -51,16 +46,16 @@ p {
   margin-top: 60px;
 }
 
-#chicken {
+.chicken span {
   background-color: rosybrown;
 }
 
-#beef {
+.beef span {
   background-color: #5c0f13;
   color: white;
 }
 
-#sushi {
+.sushi span {
   background-color: #fceb68;
 }
 
@@ -88,6 +83,9 @@ p {
 
 /********** Small devices only **********/
 @media (max-width: 767px) {
+  .main-container {
+    margin-top: 20px;
+  }
   .container {
     width: 90%;
   }
@@ -96,6 +94,8 @@ p {
   .beef,
   .sushi {
     margin-left: 35px;
+    margin-bottom: 30px;
+    margin-top: 20px;
   }
   p {
     overflow: hidden;
