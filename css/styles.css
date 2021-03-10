@@ -22,13 +22,14 @@ span {
 
 .main-container {
   height: 100%;
+  margin-top: 60px;
 }
 .container {
   width: 30%;
-  margin-left: 35px;
+  margin-left: 1.6%;
+  margin-right: 1.6%;
   background-color: gray;
   float: left;
-  margin-top: 60px;
   height: 250px;
   border: 2px black solid;
 }
@@ -44,6 +45,7 @@ span {
 
 p {
   margin-top: 60px;
+  padding: 5px 5px 5px 5px;
 }
 
 .chicken span {
@@ -67,17 +69,17 @@ p {
 
   .chicken,
   .beef {
-    width: 40%;
-    margin-left: 50px;
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
   }
 
   .sushi {
-    width: 85.5%;
-    margin-left: 50px;
+    width: 95%;
+    margin: 10px 2.5% 10px 2.5%;
   }
   p {
     overflow: hidden;
-    padding: 5px 5px 5px 5px;
   }
 }
 
@@ -87,18 +89,14 @@ p {
     margin-top: 20px;
   }
   .container {
-    width: 90%;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
 
-  .chicken,
-  .beef,
-  .sushi {
-    margin-left: 35px;
-    margin-bottom: 30px;
-    margin-top: 20px;
-  }
   p {
     overflow: hidden;
-    padding: 10px 5px 10px 10px;
   }
 }
