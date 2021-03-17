@@ -39,10 +39,6 @@ body {
   font-size: 1.8em;
 }
 
-.navbar-toggler {
-  border: 0;
-}
-
 .navbar-header button.navbar-toggle,
 .navbar-header .icon-bar {
   border: 1px solid black;
@@ -52,9 +48,10 @@ body {
   margin-top: -30px;
 }
 
-#navbarSupportedContent {
-  overflow: hidden;
+.navbar-toggler[aria-expanded="true"] {
+  background: rgba(255, 255, 255, 0.4);
 }
+
 /* END HEADER */
 
 /* HOME PAGE */
