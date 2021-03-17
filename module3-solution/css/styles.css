@@ -25,10 +25,6 @@ body {
   line-height: 0.75;
 }
 
-#navbarSupportedContent {
-  display: block;
-  overflow: hidden;
-}
 #item-nav {
   text-align: center;
   font-weight: bold;
@@ -54,7 +50,6 @@ body {
 }
 
 h2 {
-  text-align: center;
   margin-bottom: 100px;
   color: black;
   font-weight: bold;
