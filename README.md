@@ -14,7 +14,7 @@ Repository of the "HTML, CSS, and Javascript for Web Developers" Coursera course
 
 # Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module-2](https://alessandrozito98.github.io/fullstack-course4/module2-solution/index.html)
+* [Module-3](https://alessandrozito98.github.io/fullstack-course4/module3-solution/index.html)
+* [Module-4](https://alessandrozito98.github.io/fullstack-course4/module4-solution/index.html)
+* [Module-5](https://alessandrozito98.github.io/fullstack-course4/module5-solution/index.html)
