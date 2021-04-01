@@ -21,8 +21,8 @@ Repository of the "HTML, CSS, and Javascript for Web Developers" Coursera course
 
 ### Score
 
-Module 1: 100/100 points
-Module 2: 100/100 points
-Module 3: 100/100 points
-Module 4: 100/100 points
-Module 5: 100/100 points
+- Module 1: 100/100 points
+- Module 2: 100/100 points
+- Module 3: 100/100 points
+- Module 4: 100/100 points
+- Module 5: 100/100 points
