@@ -1,7 +1,7 @@
 # fullstack-course4
 Repository of the "HTML, CSS, and Javascript for Web Developers" Coursera course of John Hopkins University
 
-![Course Completion certificate](https://github.com/alessandrozito98/fullstack-course4/blob/master/course_certificate.pdf)
+![Course Completion certificate](https://github.com/alessandrozito98/fullstack-course4/blob/master/Certificate.png)
 
 # Assignments :
 
